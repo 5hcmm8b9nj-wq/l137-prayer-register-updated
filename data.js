@@ -32,7 +32,11 @@ const raw=[
 ['Purpose','Setbacks, disappointment, pains, rejection in family, delays in family, badmind and jealousy, hatred and bitterness, divination in family. They work but they don’t thrive.','Delays,Family,Spiritual'],
 ['Micheline','Evil foundation, chronic sickness and pain, life stagnancy/bondage, control, isolation and discord in family, confusion in household and daughter, relationship struggles, marital delay, no career/business progress, financial limitations and no progress, setback and affliction. Hindrances in gifts talents and ministry, no helpers.','Spiritual,Health,Family,Finance,Delays']
 ];
-const extra={'Gwen':{label:'Main Prayer Points from Gwen’s Testimony',items:[
+const extra={'Gbarlee':{label:'Gbarlee’s Updated Prayer Points',items:[
+['Marital settlement. Pray for son.','Family'],
+['Pray against ancestral curses from both side of my family.','Spiritual,Family'],
+['Marital settlement. Pray for son and job.','Family,Finance']]},
+'Gwen':{label:'Main Prayer Points from Gwen’s Testimony',items:[
 ['1. Prayer for her six-year-old great-grandson who has autism.','Health,Family'],
 ['2. Employment opportunities for her grandsons, including the UPS driving job.','Finance,Family'],
 ['3. Continued blessings and a fresh start for her grandsons coming out of prison.','Family'],
